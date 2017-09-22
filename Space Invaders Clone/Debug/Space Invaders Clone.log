@@ -1,0 +1,20 @@
+﻿  Alien.cpp
+c:\users\ieuser\google drive\visual studio 2017\projects\space invaders clone\space invaders clone\alien.cpp(7): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\ieuser\google drive\visual studio 2017\projects\space invaders clone\space invaders clone\main.cpp(116): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  UIObject.cpp
+c:\users\ieuser\google drive\visual studio 2017\projects\space invaders clone\space invaders clone\uiobject.cpp(22): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Start_Screen.cpp
+  Ship.cpp
+c:\users\ieuser\google drive\visual studio 2017\projects\space invaders clone\space invaders clone\ship.cpp(9): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ieuser\google drive\visual studio 2017\projects\space invaders clone\space invaders clone\ship.cpp(10): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Error_Window.cpp
+  Bullet.cpp
+c:\users\ieuser\google drive\visual studio 2017\projects\space invaders clone\space invaders clone\bullet.cpp(8): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  AlienHorde.cpp
+c:\users\ieuser\google drive\visual studio 2017\projects\space invaders clone\space invaders clone\alienhorde.cpp(5): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Space Invaders Clone.vcxproj -> C:\Users\IEUser\Google Drive\Visual Studio 2017\Projects\Space Invaders Clone\Debug\Space Invaders Clone.exe
+  Space Invaders Clone.vcxproj -> C:\Users\IEUser\Google Drive\Visual Studio 2017\Projects\Space Invaders Clone\Debug\Space Invaders Clone.pdb (Partial PDB)
